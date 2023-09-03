@@ -304,7 +304,7 @@ a {
     width: 870px;
     background-size: cover;
     text-align: center;
-    min-height: 100%;
+    height: 100%;
   }
   .info__list {
     width: 440px;
@@ -365,8 +365,8 @@ a {
     height: 100%;
   }
   .swiper__img {
-    width: 100vh;
-    height: 100vw;
+    width: 490px;
+    height: 380px;
   }
   .info__wrapper {
     margin-bottom: 0;
